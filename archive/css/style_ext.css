@@ -1,0 +1,52 @@
+.button{
+	 border-radius:  15px ;
+    background: light cyan;
+  
+    width: 100px;
+    height: 40px;
+}
+.button:hover{
+	background-color:white;
+	color:blue;
+}
+#container{
+	margin-left:300px;
+	margin-right:300px;
+}
+.x{
+	text-align:center;
+}
+
+#icon{
+	padding:0px;
+}
+#home{
+	color:black;
+	text-align:right;
+}
+textarea{
+	width:10px;
+}
+.form {
+    border: 2px solid #dadada;
+    border-radius: 7px;
+	width: 400px;
+	height:40px;
+}
+
+.form:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+.container{
+		
+		margin-left:400px;
+		margin-right:400px;
+}
+input.empty{
+	font-family:FontAwesome;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration: inherit;
+}
